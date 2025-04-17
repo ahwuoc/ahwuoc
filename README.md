@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ahuocdz
 
-💻 Web Dev | ⚡ TypeScript main | 🐧 Linux enjoyer (CachyOS + Hyprland)
+💻 Web Dev | ⚡ TypeScript main | 🐧 Linux enjoyer
 
 - 🧠 Đam mê code, không chơi game, chỉ "chơi" công nghệ mới
 - 🛠️ Fullstack với Next.js, Supabase, Express, Bun, v.v.
