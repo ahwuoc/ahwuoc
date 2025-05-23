@@ -4,7 +4,6 @@
 
 - 🧠 Đam mê code, không chơi game, chỉ "chơi" công nghệ mới
 - 🛠️ Fullstack với Next.js, Supabase, Express, Bun, v.v.
-- 🎨 UI thì Ant Design, theme thì phải Catppuccin cho dịu
 - 🧪 Thử nghiệm, vọc vạch, thỉnh thoảng làm vài con side project để giải trí
 
 > “Code không bug thì không phải code mình viết” – Me, 5 minutes ago
