@@ -3,7 +3,7 @@
 💻 Web Dev | ⚡ TypeScript main | 🐧 Linux enjoyer
 
 - 🧠 Đam mê code, không chơi game, chỉ "chơi" công nghệ mới
-- 🛠️ Fullstack với Next.js, Supabase, Express, Bun, v.v.
+- 🛠️ Fullstack với Next.js, Express, Bun, v.v.
 - 🧪 Thử nghiệm, vọc vạch, thỉnh thoảng làm vài con side project để giải trí
 
 > “Code không bug thì không phải code mình viết” – Me, 5 minutes ago
